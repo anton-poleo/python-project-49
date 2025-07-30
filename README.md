@@ -11,3 +11,10 @@
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=anton-poleo_python-project-49&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=anton-poleo_python-project-49)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=anton-poleo_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=anton-poleo_python-project-49)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=anton-poleo_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=anton-poleo_python-project-49)
+
+
+### Installation
+[![asciicast](https://asciinema.org/a/8dVF5HkXdj75NTneylzCKOudT.svg)](https://asciinema.org/a/8dVF5HkXdj75NTneylzCKOudT)
+
+### Brain even
+[![asciicast](https://asciinema.org/a/YneX5MIOtVqnFUnSEtZR5h2Mk.svg)](https://asciinema.org/a/YneX5MIOtVqnFUnSEtZR5h2Mk)

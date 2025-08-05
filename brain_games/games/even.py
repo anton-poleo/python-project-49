@@ -4,7 +4,7 @@ from brain_games.games.transforms import bool_to_string
 
 MIN_NUMBER = 0
 MAX_NUMBER = 100
-RULES_TEXT = "Answer 'yes' if the number is even, otherwise answer 'no'."
+RULES_TEXT = """Answer "yes" if the number is even, otherwise answer "no"."""
 
 
 def _is_even(number):

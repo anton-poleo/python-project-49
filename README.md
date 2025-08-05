@@ -18,3 +18,10 @@
 
 ### Brain even
 [![asciicast](https://asciinema.org/a/YneX5MIOtVqnFUnSEtZR5h2Mk.svg)](https://asciinema.org/a/YneX5MIOtVqnFUnSEtZR5h2Mk)
+
+### Brain calc
+[![asciicast](https://asciinema.org/a/TkM5BaMugHreut9DxzuxJxX4J.svg)](https://asciinema.org/a/TkM5BaMugHreut9DxzuxJxX4J)
+
+### Brain gcd
+[![asciicast](https://asciinema.org/a/I9zZjzqRlOHbYhcQi1WQ0JbAg.svg)](https://asciinema.org/a/I9zZjzqRlOHbYhcQi1WQ0JbAg)
+
